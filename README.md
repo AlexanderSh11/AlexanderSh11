@@ -45,7 +45,7 @@
 
 `Python` `Power BI` `Pandas` `SciPy` `Matplotlib`
 
-### Кредитный скоринг
+### [Кредитный скоринг](https://github.com/AlexanderSh11/credit_scoring_shift)
 Участие в проекте профессионального развития ШИФТ от ЦФТ. Комплексный кейс: EDA, очистка данных, построение и валидация моделей, сервис оценки дефолта клиентов.
 
 `Python` `Pandas` `scikit-learn`
